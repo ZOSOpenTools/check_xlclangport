@@ -1,3 +1,1 @@
-ibm_python
-
-IBM Python
+XL Clang checker
